@@ -1,7 +1,7 @@
-# 🏥 Hospital Emergency Room (ER) Performance Dashboard — Power BI
+# 🏥 Hospital Emergency Room (ER) Analysis — Power BI
 
 ## 📌 Project Overview  
-The **Hospital Emergency Room (ER) Performance Dashboard** is built in **Power BI** to provide **real-time insights** into critical ER operational metrics. It enables hospital leadership and care coordinators to monitor **patient flow**, **wait times**, **referrals**, and **satisfaction levels**, helping improve staffing decisions, care quality, and resource utilization.
+The **Hospital Emergency Room (ER) Analysis** is built in **Power BI** to provide **real-time insights** into critical ER operational metrics. It enables hospital leadership and care coordinators to monitor **patient flow**, **wait times**, **referrals**, and **satisfaction levels**, helping improve staffing decisions, care quality, and resource utilization.
 
 This project demonstrates my expertise in:  
 - **Data Analysis & Business Intelligence (BI)**  
@@ -71,7 +71,6 @@ The dashboard uses a **relational data model** integrating multiple healthcare d
 - **Department Referral Records**  
 - **Patient Satisfaction Surveys**  
 
-> *(Insert your data model screenshot here)*  
 > `![Data Model](assets/data_model.png)`
 
 ---
@@ -85,7 +84,6 @@ The dashboard is organized into **four analytical views**:
 3️⃣ **Patient-Level Detail View** → Drill-down with patient-level granularity  
 4️⃣ **Summary View** → Snapshot for leadership decision-making  
 
-> *(Insert dashboard screenshot here)*  
 > `![Dashboard Overview](assets/dashboard_overview.png)`
 
 ---
