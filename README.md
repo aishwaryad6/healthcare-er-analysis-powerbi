@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room (ER) Analysis — Power BI
+# 📊 🏥 Hospital Emergency Room (ER) Analysis — Power BI
 
 ## 📌 Project Overview  
 The **Hospital Emergency Room (ER) Analysis** is built in **Power BI** to provide **real-time insights** into critical ER operational metrics. It enables hospital leadership and care coordinators to monitor **patient flow**, **wait times**, **referrals**, and **satisfaction levels**, helping improve staffing decisions, care quality, and resource utilization.
